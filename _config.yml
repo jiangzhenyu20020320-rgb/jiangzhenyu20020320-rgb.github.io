@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Welcome to promote and provide criticism and suggestionse"
+  name             : "Used to show our work progress.Includes profiles and work achievements of each member."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Used to show our work progress.Includes profiles and work achievements of each member."
+  bio              : "Research direction: Mechanisms of seismic wave propagation and high-precision imaging theory."
   location         : "Qingdao,China"
   email            : "gubingluo@foxmail.com"
   links:
