@@ -3,9 +3,10 @@ title: "Home"
 layout: single
 permalink: /
 ---
+
 # Welcome to Our Research Group 👋
 
-We are one of the Geophysicist Groups at China University of Petroleum (East China).  
+We are the **Geophysics and Machine Learning Group** at **China University of Petroleum (East China)**.  
 Our research focuses on:
 
 - Seismic data denoising  
@@ -15,23 +16,28 @@ Our research focuses on:
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
 
 <div>
 
 ## 📰 News
-- [2025-09] 🎉 Our paper *Deep Learning for Seismic Denoising* accepted by Geophysics.  
-- [2025-07] Welcome new PhD student Alice Wang to the group!  
-- [2025-05] Our collaboration with XXX company kicked off.  
+- **[2025-09]** 🎉 Our paper *Deep Learning for Seismic Denoising* accepted by *Geophysics*.  
+- **[2025-07]** Welcome new PhD student **Alice Wang** to the group!  
+- **[2025-05]** Our collaboration with **XXX Company** kicked off.  
 
 </div>
 
 <div>
 
 ## 🔬 Research Highlights
-- **Seismic Denoising**: Novel self-supervised methods for noisy field data.  
-- **High-resolution Imaging**: Full waveform inversion and wave-equation migration.  
-- **AI for Geophysics**: Transformers and generative models for seismic data.  
+- **Seismic Denoising**  
+  Novel self-supervised methods for noisy field data.  
+
+- **High-resolution Imaging**  
+  Full waveform inversion and wave-equation migration.  
+
+- **AI for Geophysics**  
+  Transformers and generative models for seismic data.  
 
 </div>
 
@@ -41,4 +47,4 @@ Our research focuses on:
 
 ## 📚 Featured Publications
 - [Deep Learning for Seismic Denoising](https://doi.org/xxx) – *Geophysics, 2025*  
-- [Wave Propagation Modeling with Transformers](https://arxiv.org/abs/xxxx) – *NeurIPS, 2024* 
+- [Wave Propagation Modeling with Transformers](https://arxiv.org/abs/xxxx) – *NeurIPS, 2024*  
