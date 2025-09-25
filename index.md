@@ -5,66 +5,58 @@ permalink: /
 classes: wide
 ---
 
-<!-- 上方简介，拉到左上角显示 -->
-<div style="text-align: left; max-width: 1000px; margin: 0 auto 40px 0;">
+<section style="max-width: 1100px; margin: 0 auto;">
 
-# Welcome to Our Research Group 👋
+  <h1>Welcome to Our Research Group 👋</h1>
+  <p>We are the <b>Geophysics and Machine Learning Group</b> at <b>China University of Petroleum (East China)</b>.</p>
+  <p>Our research focuses on:</p>
+  <ul>
+    <li>Seismic data denoising</li>
+    <li>Wave propagation modeling</li>
+    <li>High-resolution imaging</li>
+    <li>Machine learning for geophysics</li>
+  </ul>
 
-We are the **Geophysics and Machine Learning Group** at **China University of Petroleum (East China)**.  
-Our research focuses on:
+  <hr>
 
-- Seismic data denoising  
-- Wave propagation modeling  
-- High-resolution imaging  
-- Machine learning for geophysics  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
 
-</div>
+    <div>
+      <h2>📰 News</h2>
+      <ul>
+        <li><b>[2025-09]</b> 🎉 Our paper <i>Deep Learning for Seismic Denoising</i> accepted by <i>Geophysics</i>.</li>
+        <li><b>[2025-07]</b> Welcome new PhD student <b>Alice Wang</b> to the group!</li>
+        <li><b>[2025-05]</b> Our collaboration with <b>XXX Company</b> kicked off.</li>
+      </ul>
+    </div>
 
----
+    <div>
+      <h2>🔬 Research Highlights</h2>
+      <ul>
+        <li><b>Seismic Denoising</b>: Novel self-supervised methods for noisy field data.</li>
+        <li><b>High-resolution Imaging</b>: Full waveform inversion and wave-equation migration.</li>
+        <li><b>AI for Geophysics</b>: Transformers and generative models for seismic data.</li>
+      </ul>
+    </div>
 
-<!-- 中间内容：单列居中 -->
-<div style="max-width: 900px; margin: 0 auto;">
+  </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+  <hr>
 
-<div>
+  <h2>📚 Featured Publications</h2>
+  <ul>
+    <li><a href="https://doi.org/xxx">Deep Learning for Seismic Denoising</a> – <i>Geophysics, 2025</i></li>
+    <li><a href="https://arxiv.org/abs/xxxx">Wave Propagation Modeling with Transformers</a> – <i>NeurIPS, 2024</i></li>
+  </ul>
 
-## 📰 News
-- **[2025-09]** 🎉 Our paper *Deep Learning for Seismic Denoising* accepted by *Geophysics*.  
-- **[2025-07]** Welcome new PhD student **Alice Wang** to the group!  
-- **[2025-05]** Our collaboration with **XXX Company** kicked off.  
+  <hr>
 
-</div>
+  <h2>📩 Contact</h2>
+  <p>📧 <a href="mailto:email@example.com">email@example.com</a><br>
+     📍 China University of Petroleum (East China)</p>
 
-<div>
+</section>
 
-## 🔬 Research Highlights
-- **Seismic Denoising**  
-  Novel self-supervised methods for noisy field data.  
-
-- **High-resolution Imaging**  
-  Full waveform inversion and wave-equation migration.  
-
-- **AI for Geophysics**  
-  Transformers and generative models for seismic data.  
-
-</div>
-
-</div>
-
----
-
-## 📚 Featured Publications
-- [Deep Learning for Seismic Denoising](https://doi.org/xxx) – *Geophysics, 2025*  
-- [Wave Propagation Modeling with Transformers](https://arxiv.org/abs/xxxx) – *NeurIPS, 2024*  
-
----
-
-## 📩 Contact
-📧 [email@example.com](mailto:email@example.com)  
-📍 China University of Petroleum (East China)  
-
-</div>
 
 
 ## 📚 Featured Publications
