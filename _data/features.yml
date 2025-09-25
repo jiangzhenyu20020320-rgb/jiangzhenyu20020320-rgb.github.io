@@ -1,0 +1,14 @@
+highlights:
+  - title: "🔬 Research Highlights"
+    excerpt: "**Seismic Denoising**: Novel self-supervised methods for noisy field data."
+  - title: ""
+    excerpt: "**High-resolution Imaging**: Full waveform inversion and wave-equation migration."
+  - title: ""
+    excerpt: "**AI for Geophysics**: Transformers and generative models for seismic data."
+news:
+  - title: "📰 News"
+    excerpt: "[2025-09] 🎉 Our paper *Deep Learning for Seismic Denoising* accepted by Geophysics."
+  - title: ""
+    excerpt: "[2025-07] Welcome new PhD student Alice Wang to the group!"
+  - title: ""
+    excerpt: "[2025-05] Our collaboration with XXX company kicked off."
