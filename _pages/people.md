@@ -6,46 +6,28 @@ permalink: /people/
 
 # People
 
-## Principal Investigator
+## Team Leader
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/images/people/jiang.jpg" alt="Zhenyu Jiang" style="width:120px; height:120px; border-radius:50%; margin-right:20px;">
+<div style="display: flex; align-items: center; margin-bottom; 20px;">
+  <img src="/assets/images/people/gbl.jpg" alt="Bingluo Gu" style="width:120px; height:120px; border-radius:50%; margin-right:20px;">
   <div>
-    <strong>Dr. Zhenyu Jiang</strong><br>
-    Professor, Department of XXX<br>
-    Research interests: machine learning, seismic data, denoising<br>
-    [Google Scholar](https://scholar.google.com/) | [Email](mailto:youremail@xxx.edu)
+    <strong>Bingluo Gu</strong><br>
+   Associate Professor of the Geophysics Department at China University of Petroleum (East China)，The research direction is the mechanism of seismic wave propagation and high-precision imaging theory.
   </div>
 </div>
+
 
 ---
 
-## PhD Students
+## PhD & Postgraduate students
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/images/people/alice.jpg" alt="Alice Wang" style="width:100px; height:100px; border-radius:50%; margin-right:20px;">
+  <img src="/assets/images/people/jzy.jpg" alt="Zhenyu Jiang" style="width:100px; height:100px; border-radius:50%; margin-right:20px;">
   <div>
-    <strong>Alice Wang</strong><br>
-    Research topic: Self-supervised seismic denoising
+    <strong>Zhenyu Jiang</strong><br>
+    First-year graduate student, research direction is seismic data denoising and super-resolution.
   </div>
 </div>
 
----
-
-## Master Students
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/images/people/charlie.jpg" alt="Charlie Zhang" style="width:100px; height:100px; border-radius:50%; margin-right:20px;">
-  <div>
-    <strong>Charlie Zhang</strong><br>
-    Seismic inversion with deep learning
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/assets/images/people/diana.jpg" alt="Diana Liu" style="width:100px; height:100px; border-radius:50%; margin-right:20px;">
-  <div>
-    <strong>Diana Liu</strong><br>
-    Semi-supervised denoising methods
-  </div>
-</div>
+## Other Personnel
