@@ -54,20 +54,12 @@ Our research focuses on:
 </style>
 
 ---
-
-<!-- 📰 News + 🔬 Research 两栏 -->
-<div class="twocol">
-
-<div>
-
 ## 📰 News
-- **[2025-09]** 🎉 Our paper *Deep Learning for Seismic Denoising* accepted by *Geophysics*.  
-- **[2025-07]** Welcome new PhD student **Alice Wang** to the group!  
-- **[2025-05]** Our collaboration with **XXX Company** kicked off.  
+- [2025-09] 🎉 Our paper *Deep Learning for Seismic Denoising* accepted by Geophysics.  
+- [2025-07] Welcome new PhD student Alice Wang to the group!  
+- [2025-05] Our collaboration with XXX company kicked off.  
 
-</div>
-
-<div>
+---
 
 ## 🔬 Research Highlights
 - **Seismic Denoising**: Novel self-supervised methods for noisy field data.  
@@ -78,18 +70,6 @@ Our research focuses on:
 
 </div>
 
-<style>
-.twocol {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 30px;
-  margin: 30px 0;
-}
-.twocol h2 {
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 5px;
-}
-</style>
 
 ---
 
