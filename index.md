@@ -5,6 +5,8 @@ permalink: /
 classes: wide
 ---
 
+---
+
 # Welcome to Our Research Group 👋
 
 We are the **Geophysics and Machine Learning Group** at **China University of Petroleum (East China)**.  
@@ -79,11 +81,3 @@ Our research focuses on:
 
 ---
 
-## 📩 Contact
-📧 [email@example.com](mailto:email@example.com)  
-📍 China University of Petroleum (East China)
-
-  </p>
-
-</body>
-</html>
