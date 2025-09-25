@@ -1,7 +1,8 @@
 ---
 title: "Home"
-layout: single
+layout: splash
 permalink: /
+classes: wide
 ---
 
 <!-- 上方简介，拉到左上角显示 -->
