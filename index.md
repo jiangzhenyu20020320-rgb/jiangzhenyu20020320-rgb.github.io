@@ -4,6 +4,9 @@ layout: single
 permalink: /
 ---
 
+<!-- 上方简介，拉到左上角显示 -->
+<div style="text-align: left; max-width: 1000px; margin: 0 auto 40px 0;">
+
 # Welcome to Our Research Group 👋
 
 We are the **Geophysics and Machine Learning Group** at **China University of Petroleum (East China)**.  
@@ -14,7 +17,12 @@ Our research focuses on:
 - High-resolution imaging  
 - Machine learning for geophysics  
 
+</div>
+
 ---
+
+<!-- 中间内容：单列居中 -->
+<div style="max-width: 900px; margin: 0 auto;">
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
 
@@ -44,6 +52,19 @@ Our research focuses on:
 </div>
 
 ---
+
+## 📚 Featured Publications
+- [Deep Learning for Seismic Denoising](https://doi.org/xxx) – *Geophysics, 2025*  
+- [Wave Propagation Modeling with Transformers](https://arxiv.org/abs/xxxx) – *NeurIPS, 2024*  
+
+---
+
+## 📩 Contact
+📧 [email@example.com](mailto:email@example.com)  
+📍 China University of Petroleum (East China)  
+
+</div>
+
 
 ## 📚 Featured Publications
 - [Deep Learning for Seismic Denoising](https://doi.org/xxx) – *Geophysics, 2025*  
