@@ -45,9 +45,8 @@ Our research focuses on:
 }
 .carousel-inner img {
   width: 100%;
-  height: 300px;
-  object-fit; cover;
-  flex-shrink: 0;
+  max-height: 300px;
+  height: auto;
 }
 @keyframes slide {
   0%,30%   { transform: translateX(0%); }
