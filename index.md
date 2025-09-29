@@ -32,7 +32,7 @@ Our research focuses on:
 .carousel {
   position: relative;
   width: 100%;
-  max-width: 800px;
+  max-width: 600px;
   margin: 20px auto;
   overflow: hidden;
   border-radius: 10px;
@@ -45,6 +45,8 @@ Our research focuses on:
 }
 .carousel-inner img {
   width: 100%;
+  height: 300px;
+  object-fit; cover;
   flex-shrink: 0;
 }
 @keyframes slide {
