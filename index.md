@@ -7,9 +7,9 @@ classes: wide
 
 ---
 
-# Welcome to Our Research Group 👋
+# Welcome to Our Research Group 
 
-We are the **Geophysics and Machine Learning Group** at **China University of Petroleum (East China)**.  
+We are one of the Geophysics  Group at China University of Petroleum (East China).  
 Our research focuses on:
 
 - Seismic data denoising  
@@ -63,15 +63,10 @@ Our research focuses on:
 
 ---
 
-## 🔬 Research Highlights
+## 🔬 Latest Papers
 - **Seismic Denoising**: Novel self-supervised methods for noisy field data.  
 - **High-resolution Imaging**: Full waveform inversion and wave-equation migration.  
 - **AI for Geophysics**: Transformers and generative models for seismic data.  
-
-</div>
-
-</div>
-
 
 ---
 
