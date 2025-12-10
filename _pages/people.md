@@ -4,7 +4,7 @@ layout: single
 permalink: /people/
 ---
 
-# People
+
 
 ## Team Leader
 
